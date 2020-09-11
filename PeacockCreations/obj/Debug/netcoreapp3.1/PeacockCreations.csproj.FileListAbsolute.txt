@@ -92,3 +92,7 @@ C:\Users\Shivanshi Atharv\Desktop\ComIT_Project\PeacockCreations\obj\Debug\netco
 C:\Users\Shivanshi Atharv\Desktop\ComIT_Project\PeacockCreations\obj\Debug\netcoreapp3.1\PeacockCreations.dll
 C:\Users\Shivanshi Atharv\Desktop\ComIT_Project\PeacockCreations\obj\Debug\netcoreapp3.1\PeacockCreations.pdb
 C:\Users\Shivanshi Atharv\Desktop\ComIT_Project\PeacockCreations\obj\Debug\netcoreapp3.1\PeacockCreations.genruntimeconfig.cache
+C:\Users\Shivanshi Atharv\Desktop\ComIT_Project\PeacockCreations\obj\Debug\netcoreapp3.1\Razor\Views\Home\jewellery.cshtml.g.cs
+C:\Users\Shivanshi Atharv\Desktop\ComIT_Project\PeacockCreations\obj\Debug\netcoreapp3.1\Razor\Views\Home\kids.cshtml.g.cs
+C:\Users\Shivanshi Atharv\Desktop\ComIT_Project\PeacockCreations\obj\Debug\netcoreapp3.1\Razor\Views\Home\men.cshtml.g.cs
+C:\Users\Shivanshi Atharv\Desktop\ComIT_Project\PeacockCreations\obj\Debug\netcoreapp3.1\Razor\Views\Home\women.cshtml.g.cs

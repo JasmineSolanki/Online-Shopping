@@ -14402,8 +14402,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Shivanshi Atharv\\Desktop\\ComIT_Project\\PeacockCreations\\Views\\Home\\men.cshtml",
+      "TargetPath": "Views\\Home\\men.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Shivanshi Atharv\\Desktop\\ComIT_Project\\PeacockCreations\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Shivanshi Atharv\\Desktop\\ComIT_Project\\PeacockCreations\\Views\\Home\\jewellery.cshtml",
+      "TargetPath": "Views\\Home\\jewellery.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14422,6 +14432,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Shivanshi Atharv\\Desktop\\ComIT_Project\\PeacockCreations\\Views\\Home\\kids.cshtml",
+      "TargetPath": "Views\\Home\\kids.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Shivanshi Atharv\\Desktop\\ComIT_Project\\PeacockCreations\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -14434,6 +14449,11 @@
     {
       "FilePath": "c:\\Users\\Shivanshi Atharv\\Desktop\\ComIT_Project\\PeacockCreations\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Shivanshi Atharv\\Desktop\\ComIT_Project\\PeacockCreations\\Views\\Home\\women.cshtml",
+      "TargetPath": "Views\\Home\\women.cshtml",
       "FileKind": "mvc"
     }
   ],

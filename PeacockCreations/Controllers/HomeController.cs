@@ -27,6 +27,22 @@ namespace PeacockCreations.Controllers
         {
             return View();
         }
+         public IActionResult Women()
+        {
+            return View();
+        }
+         public IActionResult Men()
+        {
+            return View();
+        }
+         public IActionResult Kids()
+        {
+            return View();
+        }
+         public IActionResult Jewellery()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
